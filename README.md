@@ -1,3 +1,5 @@
-#Elsı repo a Git tanul·s·hoz
+# Els√µ repo a Git tanul√°s√°hoz
 
-Lok·lisan hoztuk lÈtre a README.md f·jlt.
+Lok√°lisan hoztuk l√©tre a README.md f√°jlt.
+
+M√°sodik sor amit a Github-on szerkesztett√ºnk.
